@@ -68,8 +68,7 @@ The network achieves near-perfect accuracy on the synthetic dataset within 20 ep
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/galaxy-classification.git
-cd galaxy-classification
+git clone https://github.com/mqurban/galaxy-classification.git
 ```
 
 ### 2. Install Dependencies
