@@ -5,3 +5,5 @@ torchvision
 scikit-learn
 pandas
 pillow
+h5py
+scikit-image
